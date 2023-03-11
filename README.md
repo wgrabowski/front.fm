@@ -1,2 +1,2 @@
 # front.fm
-podcasty o frontendize, zebrane w jednym miejscu
+podcasty o frontendzie, zebrane w jednym miejscu
